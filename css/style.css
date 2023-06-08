@@ -43,7 +43,7 @@ body{
 }
 
 .block1{
-	background: url(./img/icons/css_template\ \(1\).svg) left no-repeat;
+	background: url(img/icons/css_template\ \(1\).svg) left no-repeat;
 	background-color: #e8e8e8;
 	height: 1700px;
 	width: 1440px;
@@ -90,7 +90,7 @@ body{
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 font-size: 20px;
 margin: 0 0 9px 0;
-background: url(./img/icons/li.svg) left no-repeat;
+background: url(img/icons/li.svg) left no-repeat;
 padding: 0px 340px 0px 27px;
 }
 
