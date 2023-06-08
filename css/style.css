@@ -52,7 +52,7 @@ body{
 }
 
 .block0{
-	background: url('./img/Background.jpg') 50%/821px no-repeat, #FFFFFF; 
+	background: url('img/Background.jpg') 50%/821px no-repeat, #FFFFFF; 
 	filter: drop-shadow(0 0 5px #000);
 	height: 561px;
 	width: 841px;
